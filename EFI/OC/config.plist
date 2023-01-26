@@ -1408,6 +1408,11 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
+			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
+			<dict>
+				<key>revcpuname</key>
+				<string>AMD Ryzen 7 3700X 8-Core Processor</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict>

@@ -1410,6 +1410,10 @@
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
+				<key>revpatch</key>
+				<string>memtab,pci,cpuname</string>
+				<key>revcpu</key>
+				<string>1</string>
 				<key>revcpuname</key>
 				<string>AMD Ryzen 7 3700X 8-Core Processor</string>
 			</dict>
@@ -1474,13 +1478,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K029902QXK3F78C</string>
+			<string>F5K347501QXK3F78C</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>OLVN/Qyg</data>
+			<data>BC926BD13740</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1488,9 +1492,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KD3GZMP7QM</string>
+			<string>F5KLQNZ1P7QM</string>
 			<key>SystemUUID</key>
-			<string>03FB4C34-739E-4028-BBB8-1E15DC932D8B</string>
+			<string>F011E5FF-EA70-4D0F-8CED-2437BBBFB087</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

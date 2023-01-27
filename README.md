@@ -15,6 +15,6 @@ Boots and installs. Still haven't tested Wi-Fi, DRM, Sleep and iServices.
 
 ### Issues
 
-- [] **CPU is wrongly reported** as Ryzen 7 3800XT in *System Report*
-- [] **iCloud seems to be broken**
+- [ ]**CPU is wrongly reported** as Ryzen 7 3800XT in *System Report*
+- [ ]**iCloud seems to be broken**
 - You tell me
